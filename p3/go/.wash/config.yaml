@@ -1,0 +1,8 @@
+version: 2.0.2
+
+build:
+  command: make build
+  component_path: build/component.wasm
+
+dev:
+  wasip3: true

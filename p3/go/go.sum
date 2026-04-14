@@ -1,0 +1,4 @@
+github.com/jamesstocktonj1/componentize-sdk/p3 v0.0.0-20260413232756-f0ca459c27bc h1:Gk0gnw4mY/HB0x4fl+F2FDt6fZ2heLhRS63rFQ2mlzg=
+github.com/jamesstocktonj1/componentize-sdk/p3 v0.0.0-20260413232756-f0ca459c27bc/go.mod h1:dc1EZNHFLai4gAReK2nbNkw32y6ufnYZlGQYXts75Z4=
+go.bytecodealliance.org/pkg v0.2.1 h1:TdRagooIcCW3UmlKqVO4cDR3GNDyfDnbiBzGI6TOvyg=
+go.bytecodealliance.org/pkg v0.2.1/go.mod h1:OjA+V8g3uUFixeCKFfamm6sYhTJdg8fvwEdJ2GO0GSk=
